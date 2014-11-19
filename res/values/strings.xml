@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudyJapan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_chao_hoi">ChaoHoiActivity</string>
+    <string name="title_activity_so">SoActivity</string>
+    <string name="title_activity_gia_dinh">GiaDinhActivity</string>
+    <string name="title_activity_an_uong">AnUongActivity</string>
+    <string name="title_activity_ngay_gio">NgayGioActivity</string>
+    <string name="title_activity_mau_sac">MauSacActivity</string>
+    <string name="title_activity_suc_khoe">SucKhoeActivity</string>
+    <string name="title_activity_dat_nuoc">DatNuocActivity</string>
+
+</resources>

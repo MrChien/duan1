@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="15dip"
+    android:paddingLeft="15dip"
+    android:paddingTop="15dip" >
+
+    <TextView
+     android:id="@+id/english"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_marginBottom="2dip"
+        android:layout_marginRight="32dip"
+        android:singleLine="true"
+        android:text="Pham Ke" />
+
+    <TextView
+        android:id="@+id/pinyin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Tu Liem, Ha Noi" />
+    
+    <TextView
+        android:id="@+id/japanese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Tu Liem, Ha Noi" />
+    
+    <TextView
+        android:id="@+id/vietnamese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Tu Liem, Ha Noi" />
+
+    <Button
+        android:onClick="docAt"
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    android:background="@drawable/btn_record1"/>
+
+</LinearLayout>
